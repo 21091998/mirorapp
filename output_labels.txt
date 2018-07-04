@@ -1,0 +1,30 @@
+andesite
+azurite
+basalt
+biotite
+breccia
+calcite
+chromite
+coal
+conglomerate
+diorite
+galena
+gold
+granite
+gypsum
+jasper
+malachite
+microcline
+obsidian
+pegmatite
+pisolitic limestone
+pudding stone
+pumice
+pyrite
+quartz
+rodhocrosite
+sandstone
+silver
+vanadinite
+volcanic bom
+zircon
